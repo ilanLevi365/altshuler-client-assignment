@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/altshuler-client-assignment/static/css/main.3ffe58fc.css",
+    "main.js": "/altshuler-client-assignment/static/js/main.d6234f8b.js",
+    "static/js/787.ae052751.chunk.js": "/altshuler-client-assignment/static/js/787.ae052751.chunk.js",
+    "index.html": "/altshuler-client-assignment/index.html",
+    "main.3ffe58fc.css.map": "/altshuler-client-assignment/static/css/main.3ffe58fc.css.map",
+    "main.d6234f8b.js.map": "/altshuler-client-assignment/static/js/main.d6234f8b.js.map",
+    "787.ae052751.chunk.js.map": "/altshuler-client-assignment/static/js/787.ae052751.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ffe58fc.css",
+    "static/js/main.d6234f8b.js"
+  ]
+}
